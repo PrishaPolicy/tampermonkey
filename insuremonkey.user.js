@@ -7,6 +7,8 @@
 // @match        https://ipartner.icicilombard.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
 // @grant        unsafeWindow
+// @updateURL    https://github.com/PrishaPolicy/tampermonkey/raw/main/insuremonkey.user.js
+// @downloadURL  https://github.com/PrishaPolicy/tampermonkey/raw/main/insuremonkey.user.js
 // @run-at document-end
 // ==/UserScript==
 
